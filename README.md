@@ -5,4 +5,4 @@ for writing an article in [adictosaltrabajo.com](https://adictosaltrabajo.com)
 
 ## Usage
 
-Use your favorite IDE and import this maven project into it
+In order to run this project (only tests available) run the following command: `mvn test`

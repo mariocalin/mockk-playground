@@ -1,4 +1,4 @@
-package com.autentia.test
+package com.autentia
 
 import com.autentia.repository.TaskRepository
 import com.autentia.usecase.create.CreateTaskRequest

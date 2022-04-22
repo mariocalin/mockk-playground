@@ -1,4 +1,4 @@
-package com.autentia.test
+package com.autentia
 
 import com.autentia.domain.Task
 import com.autentia.repository.TaskRepository
